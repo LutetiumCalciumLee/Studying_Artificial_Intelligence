@@ -2,6 +2,7 @@
 <summary>ENG (English Version)</summary>
 
 # Introduction to Artificial Intelligence
+This repository contains my notes on Introduction to Artificial Intelligence as part of the AI Software High-Tech Program.
 
 ### 1. Introduction to Artificial Intelligence
 - **AI Levels and Applications:** AI varies in complexity and is used in technologies like object detection (e.g., YOL-NAS) and in consumer products like smart vacuum cleaners.
@@ -53,6 +54,7 @@
 <summary>KOR (한국어 버전)</summary>
 
 # 인공지능 개론
+이 Repository에는 인공지능소프트웨어과 하이테크 과정에서 학습한 인공지능 개론 내용을 정리하여 업로드했습니다.
 
 ### 1. 인공지능 소개
 - **AI 수준 및 활용:** AI는 다양한 수준으로 존재하며, 객체 탐지(YOL-NAS 등)나 AI 청소기 같은 제품에 활용됨.
